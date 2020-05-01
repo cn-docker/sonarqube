@@ -1,2 +1,2 @@
-FROM sonarqube:7.6-community
+FROM sonarqube:lts
 LABEL maintainer="CN Services <noninojulian@gmail.com>"
